@@ -1,0 +1,6 @@
+{
+  "name": "School ID Card Maker (શાળા વિદ્યાર્થી આઈડી કાર્ડ મેકર)",
+  "description": "Create, customize, and batch-print professional student ID cards for schools with bilingual Gujarati-English support, QR codes, photo upload, and A4 print sheets.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
